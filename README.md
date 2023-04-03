@@ -15,7 +15,7 @@
     <img align="center" alt="Jovs-php" height="45" width="45" src="https://github.com/giovannalauraa/giovannalauraa/blob/16fc8d165152b7e2a78756675f5da4139f839a5c/php-img-2.png">
      <img align="center" alt="Jovs-vue" height="40" width="40" src="https://github.com/giovannalauraa/giovannalauraa/blob/a2d7eeae84ecef2b19d14c397e3fdaa150b7867b/vue-2-removebg-preview.png">
      <img align="center" alt="Jovs-spring-boot" height="50" width="50" src="https://github.com/giovannalauraa/giovannalauraa/blob/c3010900786f4e0fe32bd6978da1a0b823185b6c/spring-boot-removebg-preview.png">
-    <img align = "right" src = "me.jpg" height="200" width="200">
+  
 </div>
 
 ##
